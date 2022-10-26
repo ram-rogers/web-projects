@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* 
+#container {
+    text-align: center;
+}
+
+#head {
+    background-color: #cc5de8;
+    padding: 25px;
+}
+
+#head h1 {
+    color: blue;
+}
+
+#container {
+    display: flex;
+    height: auto;
+    width: 900px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.heading {
+    text-align: center;
+}
+
+#wrapper p {
+    line-height: 1.5;
+    text-align: justify;
+}
+
+#navi {
+    height: 500px;
+    background-color: #da77f2;
+    list-style-type: none;
+    width: 15%;
+}
+
+#navi li {
+    margin-bottom: 5px;
+}
+
+.lnk {
+    text-decoration: none;
+    padding: 5px;
+}
+
+.lnk:hover {
+    color: rgb(6, 19, 19);
+}
+
+.ulst {
+    padding-top: 10px;
+    list-style: none;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+
+.success {
+    color: rgb(0, 255, 55);
+    text-align: center;
+}
+
+.center {
+    width: 500px;
+} */
+
+
+/* --------------------------- */
+
+.full-bar {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100%;
+}
+
+.content {
+    width: 100%;
+}
+
+.heading {
+    color: crimson;
+    background-color: aqua;
+    padding: 25px;
+}
+
+.heading-3 {
+    color: darkorange;
+}
+
+.para {
+    font-size: 20px;
+    text-align: justify;
+    padding: 0px 40px;
+    line-height: 1.6;
+}
+
+.navi {
+    height: 100%;
+}
+
+.form {
+    padding-top: 25px;
+    margin-left: 200px;
+}
+
+.footer {
+    clear: both;
+    width: 100%;
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+
+.record li {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.err {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
